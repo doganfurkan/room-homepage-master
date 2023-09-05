@@ -1,4 +1,4 @@
-(https://doganfurkan.github.io/room-homepage-master)[https://doganfurkan.github.io/room-homepage-master]
+[https://doganfurkan.github.io/room-homepage-master](https://doganfurkan.github.io/room-homepage-master)
 
 # Frontend Mentor - Room homepage
 
